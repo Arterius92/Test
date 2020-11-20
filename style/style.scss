@@ -60,6 +60,9 @@ body {
     font-weight: normal;
     background: $light-gray;
 }
+.body-scroll-stop {
+    overflow: hidden;
+}
 .wrapper {
     position: relative;
     overflow-x: hidden;
